@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "sample-silent-patient",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "isbn": "9781250301697",
+      "cover": "https://covers.openlibrary.org/b/isbn/9781250301697-L.jpg",
+      "read": true,
+      "addedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "sample-midnight-library",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "isbn": "9780525559474",
+      "cover": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg",
+      "read": false,
+      "addedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "sample-evelyn-hugo",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "isbn": "9781501161933",
+      "cover": "https://covers.openlibrary.org/b/isbn/9781501161933-L.jpg",
+      "read": false,
+      "addedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "sample-alchemist",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "isbn": "9780062315007",
+      "cover": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
+      "read": true,
+      "addedAt": "2026-10-19T00:00:00.000Z"
+    }
+  ]
+}

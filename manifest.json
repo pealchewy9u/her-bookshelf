@@ -1,0 +1,14 @@
+{
+  "name": "Her Bookshelf",
+  "short_name": "Bookshelf",
+  "description": "A personal book collection with quick duplicate checks.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f4ed",
+  "theme_color": "#556b52",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
